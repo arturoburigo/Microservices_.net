@@ -1,9 +1,13 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using OrderRequestMicroservice.Data;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.IdentityModel.Tokens;
+using OrderRequestMicroservice.Services;
+using OrderRequestMicroservice.Infra;
+using Microsoft.Extensions.DependencyInjection;
 using System.Text;
+
 public class Program
 {
     public static void Main(string[] args)
@@ -12,11 +16,19 @@ public class Program
 
         // Add services to the container
         builder.Services.AddControllers();
-        builder.Services.AddHttpClient();
-
+        
         // Configure database
         builder.Services.AddDbContext<ApplicationDbContext>(options =>
-            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+        // Ensure database will be created
+        builder.Services.AddScoped<ApplicationDbContext>();
+        
+        // Configure HttpClient
+        builder.Services.AddHttpClient();
+
+        // Register services for DI
+        builder.Services.AddScoped<ServOrderRequest>();
 
         // Configure JWT authentication
         builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
@@ -36,6 +48,8 @@ public class Program
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen(c =>
         {
+            c.SwaggerDoc("v1", new OpenApiInfo { Title = "Order Request API", Version = "v1" });
+            
             c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
             {
                 Description = "JWT Authorization header using the Bearer scheme.",
@@ -63,6 +77,15 @@ public class Program
 
         var app = builder.Build();
 
+        // Configure GeradorDeServicos with explicit cast
+        GeradorDeServicos.ServiceProvider = (ServiceProvider)app.Services;
+
+        // Ensure database is created
+        using (var scope = app.Services.CreateScope())
+        {
+            var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+            dbContext.Database.EnsureCreated();
+        }
 
         // Configure the HTTP request pipeline
         if (app.Environment.IsDevelopment())

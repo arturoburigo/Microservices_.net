@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj": {}
+    "/Users/arturoburigo/Projects/Microservices_.net/UsersMicroservice/UsersMicroservice/UsersMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj": {
+    "/Users/arturoburigo/Projects/Microservices_.net/UsersMicroservice/UsersMicroservice/UsersMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj",
+        "projectUniqueName": "/Users/arturoburigo/Projects/Microservices_.net/UsersMicroservice/UsersMicroservice/UsersMicroservice.csproj",
         "projectName": "UsersMicroservice",
-        "projectPath": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj",
-        "packagesPath": "C:\\Users\\Arturo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\obj\\",
+        "projectPath": "/Users/arturoburigo/Projects/Microservices_.net/UsersMicroservice/UsersMicroservice/UsersMicroservice.csproj",
+        "packagesPath": "/Users/arturoburigo/.nuget/packages/",
+        "outputPath": "/Users/arturoburigo/Projects/Microservices_.net/UsersMicroservice/UsersMicroservice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Arturo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/arturoburigo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -106,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

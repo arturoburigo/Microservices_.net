@@ -12,9 +12,9 @@ namespace OrderRequestMicroservice.Controllers
     {
         private readonly ServOrderRequest _servOrderRequest;
 
-        public OrderRequestController()
+        public OrderRequestController(ServOrderRequest servOrderRequest)
         {
-            _servOrderRequest = new ServOrderRequest();
+            _servOrderRequest = servOrderRequest;
         }
 
         [HttpPost]
