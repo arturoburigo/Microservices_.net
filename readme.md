@@ -119,3 +119,22 @@ O sistema tem como objetivo gerenciar operações de e-commerce através de uma 
 - Tratamento de falhas de comunicação entre serviços
 - Circuit breakers para prevenir cascata de falhas
 - Logs para rastreamento de problemas
+
+## 7. Tutorial: Importar um Arquivo `.json` no Insomnia
+
+1. **Acesse o Menu de Importação**  
+   - Abra o Insomnia.  
+   - Em cima das suas coleções clique em **Import** (ao lado de **Create**).
+
+2. **Escolha o Método de Importação**  
+   - Clique em **File** para escolher o método de importação.
+   - Clique em **Choose a File** para escolher o arquivo.
+
+3. **Selecione o Arquivo**  
+   - Localize o arquivo `.json` no seu computador.
+
+4. **Confirme e Teste**  
+   - Clique em **Scan** no canto inferior direito.  
+   - As requisições aparecerão no painel esquerdo.  
+   - Selecione uma requisição e clique em **Send** para testá-la.
+
