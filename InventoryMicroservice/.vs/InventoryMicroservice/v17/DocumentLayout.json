@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\inventorymicroservice\\inventorymicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|solutionrelative:inventorymicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\inventorymicroservice\\inventorymicroservice\\controller\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|solutionrelative:inventorymicroservice\\controller\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\inventorymicroservice\\inventorymicroservice\\services\\servinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|solutionrelative:inventorymicroservice\\services\\servinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\inventorymicroservice\\inventorymicroservice\\inventorymicroservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|solutionrelative:inventorymicroservice\\inventorymicroservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\inventorymicroservice\\inventorymicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|solutionrelative:inventorymicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\inventorymicroservice\\inventorymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|solutionrelative:inventorymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\inventorymicroservice\\inventorymicroservice\\dtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|solutionrelative:inventorymicroservice\\dtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\inventorymicroservice\\inventorymicroservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|solutionrelative:inventorymicroservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\inventorymicroservice\\inventorymicroservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|solutionrelative:inventorymicroservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\inventorymicroservice\\inventorymicroservice\\infra\\geradordeservicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|solutionrelative:inventorymicroservice\\infra\\geradordeservicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\inventorymicroservice\\inventorymicroservice\\inventorymicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E88D36D-3C16-4D6B-B71A-997313F8E73F}|InventoryMicroservice\\InventoryMicroservice.csproj|solutionrelative:inventorymicroservice\\inventorymicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InventoryMicroservice\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InventoryMicroservice\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T03:39:30.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryMicroservice\\appsettings.json",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\appsettings.json",
+              "RelativeToolTip": "InventoryMicroservice\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T03:36:09.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Controller\\InventoryController.cs",
+              "RelativeDocumentMoniker": "InventoryMicroservice\\Controller\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Controller\\InventoryController.cs",
+              "RelativeToolTip": "InventoryMicroservice\\Controller\\InventoryController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwGsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:19:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeradorDeServicos.cs",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Infra\\GeradorDeServicos.cs",
+              "RelativeDocumentMoniker": "InventoryMicroservice\\Infra\\GeradorDeServicos.cs",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Infra\\GeradorDeServicos.cs",
+              "RelativeToolTip": "InventoryMicroservice\\Infra\\GeradorDeServicos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:17:16.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServInventory.cs",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Services\\ServInventory.cs",
+              "RelativeDocumentMoniker": "InventoryMicroservice\\Services\\ServInventory.cs",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Services\\ServInventory.cs",
+              "RelativeToolTip": "InventoryMicroservice\\Services\\ServInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:15:55.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\DTOs\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryMicroservice\\DTOs\\Product.cs",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\DTOs\\Product.cs",
+              "RelativeToolTip": "InventoryMicroservice\\DTOs\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:15:05.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryMicroservice\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InventoryMicroservice\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:13:01.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryMicroservice\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Models\\Product.cs",
+              "RelativeToolTip": "InventoryMicroservice\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:12:00.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryMicroservice",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\InventoryMicroservice.csproj",
+              "RelativeDocumentMoniker": "InventoryMicroservice\\InventoryMicroservice.csproj",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\InventoryMicroservice.csproj",
+              "RelativeToolTip": "InventoryMicroservice\\InventoryMicroservice.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T02:58:11.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryMicroservice",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\InventoryMicroservice.csproj",
+              "RelativeDocumentMoniker": "InventoryMicroservice\\InventoryMicroservice.csproj",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\InventoryMicroservice.csproj",
+              "RelativeToolTip": "InventoryMicroservice\\InventoryMicroservice.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T02:58:09.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryMicroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\InventoryMicroservice\\InventoryMicroservice\\Program.cs",
+              "RelativeToolTip": "InventoryMicroservice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:57:59.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "W+66OnZkwd0PkQSGXTmQSYhNSvJ1d+SNscDzynM3pfY=",
+  "Source": "UsersMicroservice",
+  "BasePath": "_content/UsersMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

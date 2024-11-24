@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7g5UiVuGPxIcgPSMu31jCy0f34KibxQ0o5xpBy7cRj0=",
+  "Source": "InventoryMicroservice",
+  "BasePath": "_content/InventoryMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
