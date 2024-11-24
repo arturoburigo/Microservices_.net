@@ -52,7 +52,6 @@ namespace InventoryMicroservice.Controllers
         }
 
         [HttpPut("products/{id}/quantity")]
-        [Authorize]
         public async Task<ActionResult> UpdateQuantity(int id, [FromBody] UpdateQuantityDTO updateDto)
         {
             try

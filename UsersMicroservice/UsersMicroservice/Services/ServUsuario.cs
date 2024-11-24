@@ -71,5 +71,11 @@ namespace UserMicroservice.Services
                 })
                 .ToListAsync();
         }
+
+        public async Task<User?> ObterUsuarioPorId(int id)
+        {
+            return await _dataContext.Users
+                .FirstOrDefaultAsync(u => u.Id == id);
+        }
     }
 }

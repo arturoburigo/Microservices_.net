@@ -135,3 +135,4 @@ C:\Users\Arturo\Documents\Microservice\UsersMicroservice\UsersMicroservice\obj\D
 C:\Users\Arturo\Documents\Microservice\UsersMicroservice\UsersMicroservice\obj\Debug\net8.0\UsersMicroservice.pdb
 C:\Users\Arturo\Documents\Microservice\UsersMicroservice\UsersMicroservice\obj\Debug\net8.0\UsersMicroservice.genruntimeconfig.cache
 C:\Users\Arturo\Documents\Microservice\UsersMicroservice\UsersMicroservice\obj\Debug\net8.0\ref\UsersMicroservice.dll
+C:\Users\Arturo\Documents\Microservice\UsersMicroservice\UsersMicroservice\obj\Debug\net8.0\UsersMicroservice.sourcelink.json

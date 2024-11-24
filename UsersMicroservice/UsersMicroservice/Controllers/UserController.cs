@@ -66,5 +66,29 @@ namespace UsersMicroservice.Controllers
                 return BadRequest(new { message = ex.Message });
             }
         }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<User>> GetUser(int id)
+        {
+            try
+            {
+                var user = await _servUsuario.ObterUsuarioPorId(id);
+                if (user == null)
+                    return NotFound(new { message = "Usuário não encontrado" });
+
+                // Retorna o usuário sem a senha
+                return Ok(new
+                {
+                    id = user.Id,
+                    name = user.Name,
+                    email = user.Email,
+                    role = user.Role
+                });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = ex.Message });
+            }
+        }
     }
 }

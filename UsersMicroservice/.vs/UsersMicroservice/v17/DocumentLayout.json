@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A593BF7-AA7B-4CD7-BDBC-4ABFF59CC468}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\usersmicroservice\\usersmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A593BF7-AA7B-4CD7-BDBC-4ABFF59CC468}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A593BF7-AA7B-4CD7-BDBC-4ABFF59CC468}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\usersmicroservice\\usersmicroservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A593BF7-AA7B-4CD7-BDBC-4ABFF59CC468}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A593BF7-AA7B-4CD7-BDBC-4ABFF59CC468}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\usersmicroservice\\usersmicroservice\\services\\servusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A593BF7-AA7B-4CD7-BDBC-4ABFF59CC468}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\services\\servusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A593BF7-AA7B-4CD7-BDBC-4ABFF59CC468}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\usersmicroservice\\usersmicroservice\\services\\servautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A593BF7-AA7B-4CD7-BDBC-4ABFF59CC468}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\services\\servautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A593BF7-AA7B-4CD7-BDBC-4ABFF59CC468}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\usersmicroservice\\usersmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A593BF7-AA7B-4CD7-BDBC-4ABFF59CC468}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A593BF7-AA7B-4CD7-BDBC-4ABFF59CC468}|UsersMicroservice\\UsersMicroservice.csproj|c:\\users\\arturo\\documents\\microservice\\usersmicroservice\\usersmicroservice\\migrations\\20241121032943_addadminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Services\\ServUsuario.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Services\\ServUsuario.cs",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Services\\ServUsuario.cs",
+              "RelativeToolTip": "UsersMicroservice\\Services\\ServUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:12:01.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ServAutenticacao.cs",
+              "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Services\\ServAutenticacao.cs",
+              "RelativeDocumentMoniker": "UsersMicroservice\\Services\\ServAutenticacao.cs",
+              "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Services\\ServAutenticacao.cs",
+              "RelativeToolTip": "UsersMicroservice\\Services\\ServAutenticacao.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:09:51.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20241121032943_AddAdminUser.cs",
               "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Migrations\\20241121032943_AddAdminUser.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\Migrations\\20241121032943_AddAdminUser.cs",
@@ -50,12 +84,11 @@
               "RelativeToolTip": "UsersMicroservice\\Migrations\\20241121032943_AddAdminUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T03:29:49.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T03:29:49.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "20241121030708_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Migrations\\20241121030708_InitialCreate.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\Migrations\\20241121030708_InitialCreate.cs",
@@ -63,12 +96,11 @@
               "RelativeToolTip": "UsersMicroservice\\Migrations\\20241121030708_InitialCreate.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAQwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T03:07:15.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T03:07:15.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -76,25 +108,24 @@
               "RelativeToolTip": "UsersMicroservice\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T03:07:14.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T03:07:14.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Controllers\\UserController.cs",
               "RelativeToolTip": "UsersMicroservice\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwF4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T03:05:02.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GeradorDeServicos.cs",
               "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Infra\\GeradorDeServicos.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\Infra\\GeradorDeServicos.cs",
@@ -102,12 +133,11 @@
               "RelativeToolTip": "UsersMicroservice\\Infra\\GeradorDeServicos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T02:59:11.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T02:59:11.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\Data\\ApplicationDbContext.cs",
@@ -115,12 +145,11 @@
               "RelativeToolTip": "UsersMicroservice\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T02:57:16.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T02:57:16.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Arturo\\Documents\\Microservice\\UsersMicroservice\\UsersMicroservice\\Program.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\Program.cs",
