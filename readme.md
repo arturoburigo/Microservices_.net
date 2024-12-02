@@ -138,3 +138,21 @@ O sistema tem como objetivo gerenciar operações de e-commerce através de uma 
    - As requisições aparecerão no painel esquerdo.  
    - Selecione uma requisição e clique em **Send** para testá-la.
 
+## 8. Requisitos Gerais:
+  1. **Sistema Operacional**
+    - Windows 10 ou superior, macOS 11 ou superior, ou Linux (Ubuntu 20.04 ou superior recomendado).
+     
+  3. **Ferramentas Necessárias**
+    - Editor de código/IDE:
+      - Visual Studio 2022 (para desenvolvimento em .NET) com as seguintes cargas de trabalho instaladas:
+        - Desenvolvimento de ASP.NET e web.
+        - Ferramentas de dados (para integração com SQL Server).
+      - Alternativamente, Visual Studio Code com as extensões:
+        - C#.
+        - SQL Server.
+      - Cliente para requisições HTTP:
+        - Insomnia ou Postman.
+      - Gerenciador de dependências:
+        - NuGet (integrado no Visual Studio).
+      - Sistema de controle de versão:
+        - Git.
