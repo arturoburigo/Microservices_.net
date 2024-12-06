@@ -149,7 +149,7 @@ O sistema tem como objetivo gerenciar operações de e-commerce através de uma 
         - Ferramentas de dados (para integração com SQL Server).
       - Alternativamente, Visual Studio Code com as extensões:
         - C#.
-        - SQL Server.
+        - SQL Server. 
       - Cliente para requisições HTTP:
         - Insomnia ou Postman.
       - Gerenciador de dependências:
